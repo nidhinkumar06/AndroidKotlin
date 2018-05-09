@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">KotlinChat</string>
+    <string name="title_people">People</string>
+    <string name="title_myaccount">MyAccount</string>
+
+
+</resources>
